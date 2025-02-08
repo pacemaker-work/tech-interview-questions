@@ -1,4 +1,22 @@
-# Tech Interview Questions
+<div align="center">    
+  <h1>Tech Interview Questions</h1>
+  
+  <img src="https://img.shields.io/badge/Software-Basic-yellow" alt="Basic"/>
+  <img src="https://img.shields.io/badge/Position-Frontend-orange" alt="Frontend"/>
+  <img src="https://img.shields.io/badge/Position-Backend-blue" alt="Backend"/>
+  <img src="https://img.shields.io/badge/Position-Data-green" alt="Data"/>
+  <img src="https://img.shields.io/badge/Position-AI/Machine Learning-teal" alt="AI/Machine Learning"/>
+
+  <h4> 기본부터, Front/Back/Data/AI,ML 까지 많이 다뤄지는 기술 면접 질문 리스트 </h4>
+</div>
+
+## Table of Contents  
+
+- [Basic](#basic)  
+- [Frontend](#frontend)
+- [Backend](#backend)
+- [Data](#data)
+- [AI/Machine Learning](#aimachine-learning)
 
 ## Basic
 
